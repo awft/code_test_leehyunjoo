@@ -41,8 +41,3 @@ class CouponGeneratorTestCase(unittest.TestCase):
 
         self.assertEqual(len(coupon_list), 100000)
         self.assertEqual(len(coupon_set), 100000)
-
-
-
-
-
