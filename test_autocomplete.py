@@ -1,6 +1,6 @@
 import unittest
 
-from code_test_leehyunjoo.autocomplete.autocomplete import AutoComplete
+from autocomplete.autocomplete import AutoComplete
 
 
 class AutoCompleteTestCase(unittest.TestCase):
